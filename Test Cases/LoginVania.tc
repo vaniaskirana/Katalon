@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginVania</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a68a7263-31a3-4115-b650-e74bfac9e639</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c46d0009-deed-46ce-a295-22eb7477771f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'standard_user'</defaultValue>
+      <description></description>
+      <id>c46d0009-deed-46ce-a295-22eb7477771f</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>
